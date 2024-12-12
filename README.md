@@ -2,4 +2,7 @@
 <div id="header" align="center">
   <img src="https://external-media.spacehey.net/media/sgEPprbrKtCSydBVayVZauxvncuorE3E2skzWU-QpmCk=/https://i.ibb.co/crDfpdq/starsdivider.gif" width="500"/>
 </div>
-this is a work in progress LOL
+*this is a work in progress LOL*
+
+https://github.com/user-attachments/assets/75c7c3d3-f29f-426c-b5c7-6e8a015a2aeb
+
