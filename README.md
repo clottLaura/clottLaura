@@ -3,8 +3,15 @@
   <img src="https://external-media.spacehey.net/media/sgEPprbrKtCSydBVayVZauxvncuorE3E2skzWU-QpmCk=/https://i.ibb.co/crDfpdq/starsdivider.gif" width="500"/>
 </div>
 <div id="header" align="center">
- - if you are here for my strawpage, please look here -> <a href=https://lauralitezz.straw.page>click me!</a>
+ - if you are here for my strawpage, please look here -> <a href=https://lauralitezz.straw.page><i>click me</i></a>
 </div>
 <div id="header" align="center">
   <img src="https://i2.glitter-graphics.org/pub/679/679152rzoh861uxv.gif" width="400" height="10"> 
+</div>
+<div id="header" align="center">
+ quick links:
+</div>
+<div id="header" align="center">
+ <b>strawpage</b>:
+ <a href=https://lauralitezz.straw.page/links>socials</a>, <a href=https://lauralitezz.straw.page/favs>favs</a>, <a href=https://lauralitezz.straw.page/gimmicks>sign</a>
 </div>
