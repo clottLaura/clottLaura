@@ -2,4 +2,4 @@
 <div id="header" align="center">
   <img src="https://external-media.spacehey.net/media/sgEPprbrKtCSydBVayVZauxvncuorE3E2skzWU-QpmCk=/https://i.ibb.co/crDfpdq/starsdivider.gif" width="500"/>
 </div>
-*this is a work in progress LOL*
+- if you are here for my strawpage, please look here -> <a href=https://lauralitezz.straw.page>click me!</a>
