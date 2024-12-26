@@ -2,4 +2,9 @@
 <div id="header" align="center">
   <img src="https://external-media.spacehey.net/media/sgEPprbrKtCSydBVayVZauxvncuorE3E2skzWU-QpmCk=/https://i.ibb.co/crDfpdq/starsdivider.gif" width="500"/>
 </div>
-- if you are here for my strawpage, please look here -> <a href=https://lauralitezz.straw.page>click me!</a>
+<div id="header" align="center">
+ - if you are here for my strawpage, please look here -> <a href=https://lauralitezz.straw.page>click me!</a>
+</div>
+<div id="header" align="center">
+  <img src="https://i2.glitter-graphics.org/pub/679/679152rzoh861uxv.gif" width="400" height="10"> 
+</div>
